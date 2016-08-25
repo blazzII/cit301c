@@ -10,6 +10,7 @@ namespace ConsoleAppExample
     {
         static void Main(string[] args)
         {
+            // edit the output to reflect our current status.
             Console.Write("Hello World!\n");
         }
     }
