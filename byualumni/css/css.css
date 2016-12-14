@@ -1,0 +1,23 @@
+﻿* {margin:0px; overflow:hidden; }
+body {background:#000;}
+
+a {color:#fff; text-decoration:none;display:block;}
+a:visited {color:#fff;}
+
+a:hover {background:#0099ee;}
+
+.mainmenu {
+    margin:10px auto;border:1px solid #0099ee; padding:10px;
+    background-color:#999;
+    width:50%;
+    height:150px;
+    color:#fff;
+    font-size:150%;
+    text-align:center;
+}
+
+video {
+  position: absolute;
+  min-width:100%;height:100%;
+  z-index: 1;
+}

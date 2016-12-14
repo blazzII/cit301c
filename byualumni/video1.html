@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="css/css.css" rel="stylesheet" />
+</head>
+<body>
+    <video id="thevideo" controls autoplay>
+        <source src="videos/movie.mp4" type="video/mp4">
+    </video>
+    <script>
+        document.getElementById('thevideo').addEventListener('ended',function() {
+            window.location = 'index.html';
+        });
+    </script>
+
+</body>
+</html>
