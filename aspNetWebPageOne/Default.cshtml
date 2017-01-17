@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "~/_SiteLayout.cshtml";
+    Page.Title = "Sandbox One";
+    var myTime = DateTime.Now.TimeOfDay;
+}
+
+@section featured {
+<section class="featured">
+    <div class="content-wrapper">
+        <hgroup class="title">
+            <h1>@Page.Title.</h1>
+            <h2>CIT 365 &nabla; Course Sandbox</h2>
+        </hgroup>
+        
+    </div>
+</section>
+}
+
+<h3>Server Information</h3>
+@ServerInfo.GetHtml();

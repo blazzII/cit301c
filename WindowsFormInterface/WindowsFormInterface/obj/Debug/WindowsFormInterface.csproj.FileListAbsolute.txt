@@ -10,3 +10,12 @@ C:\cit301c\projects\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsF
 C:\cit301c\shared\WindowsFormInterface\WindowsFormInterface\bin\Debug\WindowsFormInterface.exe.config
 C:\cit301c\shared\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.exe
 C:\cit301c\shared\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.pdb
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\bin\Debug\WindowsFormInterface.exe.config
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.exe
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.pdb
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\bin\Debug\WindowsFormInterface.exe
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\bin\Debug\WindowsFormInterface.pdb
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.csprojResolveAssemblyReference.cache
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.Form1.resources
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.Properties.Resources.resources
+C:\cit301c\WindowsFormInterface\WindowsFormInterface\obj\Debug\WindowsFormInterface.csproj.GenerateResource.Cache
